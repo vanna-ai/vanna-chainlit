@@ -25,3 +25,7 @@ Set this as the `VANNA_API_KEY` environment variable
 ```bash
 chainlit run app.py
 ```
+
+# Learn More About Configuring for your Database
+
+https://github.com/vanna-ai/vanna
