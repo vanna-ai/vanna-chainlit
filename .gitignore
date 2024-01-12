@@ -1,0 +1,6 @@
+venv
+.files
+.chainlit
+__pycache__
+*.sqlite
+.env
